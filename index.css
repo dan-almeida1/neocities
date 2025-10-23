@@ -1,0 +1,28 @@
+body {
+  background-image: url("bg1.jpg");
+}
+#header {
+  background-color: cornflowerblue;
+  color:azure;
+  padding: 8px;
+
+}
+#myhouse {
+  display: flex;
+}
+#myhouse li{
+  padding:16px;
+  list-style-type: none;
+}
+
+#log{
+  display:flex;
+  justify-content: center;
+}
+
+.card {
+  background-color:antiquewhite;
+  padding: 8px;
+  margin: 8px;
+  border: solid rgb(187, 161, 122);
+}
